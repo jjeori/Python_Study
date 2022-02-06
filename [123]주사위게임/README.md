@@ -6,5 +6,3 @@ asdkjasldas**kjdlas**
 
 ## Review
 
-ㅁㄴ엄닝ㅁㄴㅇㅇㅁ노옴나엄ㄴㅇ
-kdlnaklsdnlkasndklasnldnsa
