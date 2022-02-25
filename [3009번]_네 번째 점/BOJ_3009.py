@@ -1,4 +1,4 @@
-1번 방법
+# 1번 방법
 a, b = map(int, input().split())
 x, y = map(int, input().split())
 i, j = map(int, input().split())
@@ -20,8 +20,8 @@ elif y == j:
     list.append(b)
 
 print(list[0], list[1])
-================================
-2번 방법
+# ================================
+# 2번 방법
 x_list = []
 y_list = []
 
